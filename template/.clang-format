@@ -1,0 +1,5 @@
+BasedOnStyle: Microsoft
+UseTab: Never
+ColumnLimit: 80
+AlignTrailingComments: true
+AllowShortIfStatementsOnASingleLine: false
